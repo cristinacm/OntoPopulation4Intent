@@ -7,3 +7,6 @@ This work presents a generic semi-automatic strategy to populate the domain onto
 # Files
 The results are provided through a .xlsx file and a .txt file.
 The .txt file has been generated from the output in eval.py.
+
+# TODO
+Make eval.py cleaner ;)
